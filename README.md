@@ -1,13 +1,34 @@
 # Game-Critique-3
 
-Title- Lego Marvel Superheroes
+Title- Lego Marvel's Avengers
 
-Plot- Lego Marvel Super Heroes is a Lego-themed action-adventure video game developed by Traveller's Tales and published by Warner Bros. Interactive Entertainment for the PlayStation 3, Xbox 360, Wii U, PlayStation 4, Xbox One and Microsoft Windows, and published by Feral Interactive for OS X. The game features gameplay similar to other Lego titles, such as Lego Star Wars: The Complete Saga and Lego Batman 2: DC Super Heroes, alternating between various action-adventure sequences and puzzle solving scenarios. The handheld version of the game by TT Fusion was released under the title Lego Marvel Super Heroes: Universe in Peril for iOS, Android, Nintendo DS, Nintendo 3DS and PlayStation Vita. Lego Marvel Super Heroes is currently the bestselling Lego video game of all time. A spin-off to the Lego Marvel series titled Lego Marvel's Avengers was released on 26 January 2016, and a sequel titled Lego Marvel Super Heroes 2 was released on 14 November 2017. The Silver Surfer comes to Earth to herald Galactus' arrival, but is attacked by Doctor Doom and knocked out of the sky. His surfboard is shattered into "cosmic bricks". Doctor Doom hires villains such as Magneto, Doc Ock, Loki and Venom to gather the bricks to build "Dr. Doom's Doom Ray of Doom". Realizing the gravity of the situation, Nick Fury gathers the Avengers, the X-Men, the Fantastic Four and various other heroes to get back the bricks.
+Plot- Lego Marvel's Avengers is a Lego-themed action-adventure video game developed by Traveller's Tales and published by Warner Bros. Interactive Entertainment, for the PlayStation 4, PlayStation 3, PlayStation Vita, Nintendo 3DS, Wii U, Xbox One, Xbox 360, Macintosh and Microsoft Windows. It is the spin-off to Lego Marvel Super Heroes and the second installment of the Lego Marvel franchise. It follows the plots of both The Avengers and Avengers: Age of Ultron as well as Captain America: The First Avenger, Iron Man 3, Thor: The Dark World, and Captain America: The Winter Soldier. The game features characters from the Marvel Cinematic Universe as well as characters from comic books. Characters include Iron Man, Captain America, Hulk, Black Widow, Hawkeye, Scarlet Witch, Quicksilver, Thor, Ultron, Loki, Winter Soldier, Falcon, Vision and War Machine and some lesser known characters such as Devil Dinosaur and Fin Fang Foom. It includes the characters of the Avengers team along with many others. The game was released on 26 January 2016.
 
 Designer- Traveller's Tales
 raveller's Tales was founded in 1989 by Jon Burton. Initially a small company focused on its own content, it grew in profile through developing games with larger companies such as Sega and Disney Interactive Studios. In 1996, the company incorporated under the name Currentclass, but changed its name to Travellers Tales (UK), doing business as Traveller's Tales, two months later. In 2004, development on Lego Star Wars: The Video Game started with publisher Giant Interactive Entertainment, and, the following year Traveller's Tales purchased and merged with Giant Interactive Entertainment, forming TT Games. From that point, Traveller's Tales served as the company's development branch, while Giant Interactive Entertainment became TT Games Publishing, the publishing branch. In 2007, the company acquired another developer and an animation studio, which became TT Fusion and TT Animation. On 8 November 2007, Warner Bros. Interactive Entertainment announced that they had purchased TT Games for an undisclosed amount as part of their expansion into the video game industry.
 
-Final Thoughts- LEGO Marvel Super Heroes is the best thing to happen to Marvel games since 2006's Marvel Ultimate Alliance. It's a warm and witty, multi-layered approach to the brand that ties in hundreds of Marvel's most iconic characters, settings, and stories. While you can knock out the campaign story in around eight hours, the world is rich with content, and I've found myself up late every night for the past week playing for "just one more hour." It may not offer the challenge or player-driven context of this year's other open-world games, but those games would be hard-pressed to deliver as much fun and happiness as you'll find in Traveler's Tales latest.
+Final Thoughts- If you like the LEGO game formula, you have a preference for playing solo and you’re a huge fan of MCU, there’s still a lot of value for you in LEGO Marvel’s Avengers, even despite a disjointed plot and annoying audio mixes. If you haven’t played any of the others and you’re thinking about picking up this one, I’d advise starting with just about any other game instead. This the weakest LEGO game I’ve played thus far, and had me missing games like LEGO Marvel Super Heroes and LEGO Dimensions.
 
 Aspects that should have been tested-
+1. Lots of bugs and glitches, crashes (frequently every now and then for me, graphic card or hardware problem keep coming up
+
+2. The archive audio of the Avengers actors (Jeremy Renner, Robert Downey Jr, Scarlett Johansson, Chris Evans, etc) is really bad, when playing the campaign or story or other missions, while battling, the audio is so low that you can't hear a thing, how I noticed that was because of the subtitles, telling that audio was coming out but was very low to be honest.
+
+3. Doesn't have X-Men, Fantastic Four, Silver Surfer, Galactus character rosters (well this game was movie based, so TT games couldn't really put the characters that Marvel doesn't have the movie rights to). ALSO NO GUARDIANS OF THE GALAXY, even though this lego game is based on the MCU, and Marvel has the movie rights to it, so why doesn't this game have the GotG roster? Doesn't make sense? Also why does Lego Avengers have Kaang the Conqueror? He's owned by 20th century Fox, that's confusing and weird?!
+
+4. You can't access a map (like in Superheroes), you have to rely on a small radar at all costs, which is weird and dumb, also you can't teleport to certain parts of the map.
+
+5. The flying controls are fixed up, but the camera angles for it suck, you can't see above meaning you don't know whether or not you're heading to the helicarrier.
+
+6. The game forces you to play 15-20% of the story which is about 5-8 missions just to free roam.
+
+7. It has way too much DLC, and it a too costly expect the Spider-Man one was free.
+
+8. No Deadpool, period, that's a reasonable con.
+
+9. I don't like that the game is Sunset all the time, I liked Superheroes stayed daytime all the time, so you could see the natural colors of the city, stuff like that. This is my own opinion.
+
+10. Didn't even bother to put more lines for the characters since it was using archive footage of the movies, which gave them limited lines, it was quite annoying when Cap saying duty calls 3 times in a row in a bonus mission, the lines were so limited and irritating, Superheroes had voice actors that accurately portrayed the characters like I mentioned before and more lines.
+
+11. Customization was terrible, it copied it from Superheroes and didn't bothering making new changes. Where you can actually customize your character and making abilities separate rather than have Spidey's face or a weapon just to get the character's abilities, it was turd, the customization.
 
