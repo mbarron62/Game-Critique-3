@@ -1,12 +1,13 @@
 # Game-Critique-3
 
-Title- 
+Title- Lego Marvel Superheroes
 
-Plot- 
+Plot- Lego Marvel Super Heroes is a Lego-themed action-adventure video game developed by Traveller's Tales and published by Warner Bros. Interactive Entertainment for the PlayStation 3, Xbox 360, Wii U, PlayStation 4, Xbox One and Microsoft Windows, and published by Feral Interactive for OS X. The game features gameplay similar to other Lego titles, such as Lego Star Wars: The Complete Saga and Lego Batman 2: DC Super Heroes, alternating between various action-adventure sequences and puzzle solving scenarios. The handheld version of the game by TT Fusion was released under the title Lego Marvel Super Heroes: Universe in Peril for iOS, Android, Nintendo DS, Nintendo 3DS and PlayStation Vita. Lego Marvel Super Heroes is currently the bestselling Lego video game of all time. A spin-off to the Lego Marvel series titled Lego Marvel's Avengers was released on 26 January 2016, and a sequel titled Lego Marvel Super Heroes 2 was released on 14 November 2017. The Silver Surfer comes to Earth to herald Galactus' arrival, but is attacked by Doctor Doom and knocked out of the sky. His surfboard is shattered into "cosmic bricks". Doctor Doom hires villains such as Magneto, Doc Ock, Loki and Venom to gather the bricks to build "Dr. Doom's Doom Ray of Doom". Realizing the gravity of the situation, Nick Fury gathers the Avengers, the X-Men, the Fantastic Four and various other heroes to get back the bricks.
 
-Designer- 
+Designer- Traveller's Tales
+raveller's Tales was founded in 1989 by Jon Burton. Initially a small company focused on its own content, it grew in profile through developing games with larger companies such as Sega and Disney Interactive Studios. In 1996, the company incorporated under the name Currentclass, but changed its name to Travellers Tales (UK), doing business as Traveller's Tales, two months later. In 2004, development on Lego Star Wars: The Video Game started with publisher Giant Interactive Entertainment, and, the following year Traveller's Tales purchased and merged with Giant Interactive Entertainment, forming TT Games. From that point, Traveller's Tales served as the company's development branch, while Giant Interactive Entertainment became TT Games Publishing, the publishing branch. In 2007, the company acquired another developer and an animation studio, which became TT Fusion and TT Animation. On 8 November 2007, Warner Bros. Interactive Entertainment announced that they had purchased TT Games for an undisclosed amount as part of their expansion into the video game industry.
 
-Final Thoughts- 
+Final Thoughts- LEGO Marvel Super Heroes is the best thing to happen to Marvel games since 2006's Marvel Ultimate Alliance. It's a warm and witty, multi-layered approach to the brand that ties in hundreds of Marvel's most iconic characters, settings, and stories. While you can knock out the campaign story in around eight hours, the world is rich with content, and I've found myself up late every night for the past week playing for "just one more hour." It may not offer the challenge or player-driven context of this year's other open-world games, but those games would be hard-pressed to deliver as much fun and happiness as you'll find in Traveler's Tales latest.
 
 Aspects that should have been tested-
 
