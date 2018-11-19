@@ -28,7 +28,5 @@ Aspects that should have been tested-
 
 9. I don't like that the game is Sunset all the time, I liked Superheroes stayed daytime all the time, so you could see the natural colors of the city, stuff like that. This is my own opinion.
 
-10. Didn't even bother to put more lines for the characters since it was using archive footage of the movies, which gave them limited lines, it was quite annoying when Cap saying duty calls 3 times in a row in a bonus mission, the lines were so limited and irritating, Superheroes had voice actors that accurately portrayed the characters like I mentioned before and more lines.
-
-11. Customization was terrible, it copied it from Superheroes and didn't bothering making new changes. Where you can actually customize your character and making abilities separate rather than have Spidey's face or a weapon just to get the character's abilities, it was turd, the customization.
+10. Customization was terrible, it copied it from Superheroes and didn't bothering making new changes. Where you can actually customize your character and making abilities separate rather than have Spidey's face or a weapon just to get the character's abilities, it was turd, the customization.
 
