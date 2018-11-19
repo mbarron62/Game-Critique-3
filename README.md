@@ -14,9 +14,7 @@ Aspects that should have been tested-
 
 2. The archive audio of the Avengers actors (Jeremy Renner, Robert Downey Jr, Scarlett Johansson, Chris Evans, etc) is really bad, when playing the campaign or story or other missions, while battling, the audio is so low that you can't hear a thing, how I noticed that was because of the subtitles, telling that audio was coming out but was very low to be honest.
 
-3. Doesn't have X-Men, Fantastic Four, Silver Surfer, Galactus character rosters (well this game was movie based, so TT games couldn't really put the characters that Marvel doesn't have the movie rights to). ALSO NO GUARDIANS OF THE GALAXY, even though this lego game is based on the MCU, and Marvel has the movie rights to it, so why doesn't this game have the GotG roster? Doesn't make sense? Also why does Lego Avengers have Kaang the Conqueror? He's owned by 20th century Fox, that's confusing and weird?!
-
-4. You can't access a map (like in Superheroes), you have to rely on a small radar at all costs, which is weird and dumb, also you can't teleport to certain parts of the map.
+3. You can't access a map (like in Superheroes), you have to rely on a small radar at all costs, which is weird and dumb, also you can't teleport to certain parts of the map.
 
 5. The flying controls are fixed up, but the camera angles for it suck, you can't see above meaning you don't know whether or not you're heading to the helicarrier.
 
@@ -24,9 +22,7 @@ Aspects that should have been tested-
 
 7. It has way too much DLC, and it a too costly expect the Spider-Man one was free.
 
-8. No Deadpool, period, that's a reasonable con.
+8. I don't like that the game is Sunset all the time, I liked Superheroes stayed daytime all the time, so you could see the natural colors of the city, stuff like that. This is my own opinion.
 
-9. I don't like that the game is Sunset all the time, I liked Superheroes stayed daytime all the time, so you could see the natural colors of the city, stuff like that. This is my own opinion.
-
-10. Customization was terrible, it copied it from Superheroes and didn't bothering making new changes. Where you can actually customize your character and making abilities separate rather than have Spidey's face or a weapon just to get the character's abilities, it was turd, the customization.
+9. Customization was terrible, it copied it from Superheroes and didn't bothering making new changes. Where you can actually customize your character and making abilities separate rather than have Spidey's face or a weapon just to get the character's abilities, it was turd, the customization.
 
