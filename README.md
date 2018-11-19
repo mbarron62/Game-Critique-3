@@ -23,6 +23,3 @@ Aspects that should have been tested-
 7. It has way too much DLC, and it a too costly expect the Spider-Man one was free.
 
 8. I don't like that the game is Sunset all the time, I liked Superheroes stayed daytime all the time, so you could see the natural colors of the city, stuff like that. This is my own opinion.
-
-9. Customization was terrible, it copied it from Superheroes and didn't bothering making new changes. Where you can actually customize your character and making abilities separate rather than have Spidey's face or a weapon just to get the character's abilities, it was turd, the customization
-
