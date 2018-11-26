@@ -14,7 +14,7 @@ Aspects that should have been tested-
 
 2. The archive audio of the Avengers actors (Jeremy Renner, Robert Downey Jr, Scarlett Johansson, Chris Evans, etc) is really bad, when playing the campaign or story or other missions, while battling, the audio is so low that you can't hear a thing, how I noticed that was because of the subtitles, telling that audio was coming out but was very low to be honest.
 
-3. You can't access a map (like in Lego Marvel Superheroes), you have to rely on a small radar at all costs, which is weird and dumb, also you can't teleport to certain parts of the map.
+3. You can't access a map like in Lego Marvel Superheroes, you have to rely on a small radar at all costs, which is weird and dumb, also you can't teleport to certain parts of the map.
 
 4. The flying controls are fixed up from Lego Marvel Superheroes, but the camera angles for it suck, you can't see above meaning you don't know whether or not you're heading to the helicarrier.
 
