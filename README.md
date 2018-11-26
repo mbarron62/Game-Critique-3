@@ -20,6 +20,8 @@ Aspects that should have been tested-
 
 5. It has way too much DLC, and it a too costly expect the Spider-Man one was free.
 
-6. I don't like that the game is Sunset all the time, I liked how Lego Marvel Superheroes stayed daytime all the time, so you could see the natural colors of the city, stuff like that. That's my own opinion.
+6. Also the game forces you to play 15-20% of the story which is about 5-8 missions just to free roam.
 
-7. Customization was terrible, it copied it from Superheroes and didn't bothering making new changes. Where you can actually customize your character and making abilities separate rather than have Spidey's face or a weapon just to get the character's abilities, it was turd, the customization.
+7. I don't like that the game is Sunset all the time, I liked how Lego Marvel Superheroes stayed daytime all the time, so you could see the natural colors of the city, stuff like that. That's my own opinion.
+
+8. Customization was terrible, it copied it from Superheroes and didn't bothering making new changes. Where you can actually customize your character and making abilities separate rather than have Spidey's face or a weapon just to get the character's abilities, it was turd, the customization.
