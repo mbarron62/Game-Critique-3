@@ -18,10 +18,8 @@ Aspects that should have been tested-
 
 5. The flying controls are fixed up from Lego Marvel Superheroes, but the camera angles for it suck, you can't see above meaning you don't know whether or not you're heading to the helicarrier.
 
-6. The game forces you to play 15-20% of the story which is about 5-8 missions just to free roam.
+6. It has way too much DLC, and it a too costly expect the Spider-Man one was free.
 
-7. It has way too much DLC, and it a too costly expect the Spider-Man one was free.
+7. I don't like that the game is Sunset all the time, I liked how Lego Marvel Superheroes stayed daytime all the time, so you could see the natural colors of the city, stuff like that. That's my own opinion.
 
-8. I don't like that the game is Sunset all the time, I liked how Lego Marvel Superheroes stayed daytime all the time, so you could see the natural colors of the city, stuff like that. That's my own opinion.
-
-9. Customization was terrible, it copied it from Superheroes and didn't bothering making new changes. Where you can actually customize your character and making abilities separate rather than have Spidey's face or a weapon just to get the character's abilities, it was turd, the customization.
+8. Customization was terrible, it copied it from Superheroes and didn't bothering making new changes. Where you can actually customize your character and making abilities separate rather than have Spidey's face or a weapon just to get the character's abilities, it was turd, the customization.
